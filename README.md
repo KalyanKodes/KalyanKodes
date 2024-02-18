@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Raj Kalyan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Raj Kalyan Kumar</h1>
+<h3 align="center">A passionate frontend developer from India , Bengaluru.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalyankodes&label=Profile%20views&color=0e75b6&style=flat" alt="kalyankodes" /> </p>
 
 - 🌱 I’m currently learning **React.js**
 
@@ -10,6 +12,8 @@
 - 📫 How to reach me **rajkalyan.dev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1qe_4we_GNFzclsOkWATLRKuRtY8QSIQI/view](https://drive.google.com/file/d/1qe_4we_GNFzclsOkWATLRKuRtY8QSIQI/view)
+
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
