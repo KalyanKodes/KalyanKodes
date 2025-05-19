@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kalyan Kumar, a final-year CSE-AIML student at GITAM University, Bengaluru, with a strong passion for web development. I specialize in frontend technologies, including HTML, CSS, JavaScript, React.js, and Git. I enjoy building innovative projects like a Spotify clone using React.js and the Spotify Web API, and I’m eager to further enhance my skills and contribute to impactful software solutions.
+I'm Kalyan Kumar, completed Bachelor's  at GITAM University in CSE, Bengaluru currently working as Junior Software Developer at BIONIVID TECHNOLOGY, bengalur. With a strong passion for web development. I specialize in frontend technologies, including HTML, CSS, JavaScript, React.js, and Git. I enjoy building innovative projects like a Spotify clone using React.js and the Spotify Web API.
 
 
 ## 🌐 Socials:
