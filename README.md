@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm Kalyan Kumar,working as  Software Developer at BIONIVID TECHNOLOGY, bengalur. completed Bachelor's  at GITAM University in CSE, Bengaluru.
+Hai!! 
+I'm Kalyan Kumar,working as a Software Developer at BIONIVID TECHNOLOGY, Bengalur, India. Completed Bachelor's at GITAM University.
 
 
 ## 🌐 Socials:
