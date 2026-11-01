@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Kalyan Kumar!
 
-I'm a **Software Developer** with **1.5 years of professional experience** building modern **web** and **Linux desktop** applications. Currently, I work at **BIONIVID TECHNOLOGY**, Bengaluru, India, where I develop user-centric applications using **React** and **Electron**.
+I'm a **Software Developer** with **1.5 years of professional experience** building modern **web** and **Linux desktop** applications. Currently, I work at **BridgeOmics**, Remote, India.
 
 I graduated with a Bachelor's degree in **Computer Science** from **GITAM University**. Working in a startup environment has given me the opportunity to closely understand software architecture, collaborate with management, and contribute to improving development workflows.
 
-🚀 I'm passionate about building intuitive user experiences, writing clean and maintainable code, and continuously learning new technologies. My long-term goal is to become a **Full-Stack Software Engineer**, capable of designing scalable end-to-end applications.
+🚀 I'm passionate about building intuitive user experiences, writing clean and maintainable code, and continuously learning new technologies. My long-term goal is to become a person that can design and program any software of requirement.
 
 ---
 
